@@ -1,3 +1,4 @@
-public/
-node_modules
-package-lock.json
+frontend/public
+frontend/node_modules
+backend/node_modules
+frontend/package-lock.json
