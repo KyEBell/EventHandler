@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"Gatsby's Fireworks Yacht Party","image":"https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F584960209%2F412671342061%2F1%2Foriginal.20230828-225642?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=bb72d13733c703860c03256cf76850c6","date":"2023-12-31","description":"New Year's Eve 2024 aboard the Cornucopia Majesty NYC, Gatsby's Yacht, with Dinner, Live DJs, Premium Open bar, Midnight Fireworks and More!","id":"dfe2db66-4240-476c-9949-b20fd8216bd3"},{"title":"Christmas in Brooklyn ","image":"https://www.downtownbrooklyn.com/wp-content/uploads/2023/10/IMG_3603.JPG_Light-Up-BkC.jpg","date":"2023-12-25","description":"Celebrate the start of the holiday season while enjoying a variety of festive outdoor activities at the Light Up Brooklyn Commons event, presented by Brookfield Properties.","id":"6f11460c-0637-47bc-851a-afa552beb0df"}]}

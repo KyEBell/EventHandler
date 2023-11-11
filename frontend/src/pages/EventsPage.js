@@ -1,6 +1,6 @@
 import EventsList from '../components/EventsList';
 
-import { useLoaderData } from 'react-router-dom';
+import { useLoaderData, json } from 'react-router-dom';
 
 function EventsPage() {
   const data = useLoaderData();
@@ -21,6 +21,8 @@ export async function loader() {
     throw new Response(JSON.stringify({ message: 'Could Not Fetch Events' }), {
       status: 500,
     });
+    //can do the below instead of the above.
+    // throw json({ message: 'Could Not Fetch Events' }, { status: 500 });
   } else {
     return response;
   }
