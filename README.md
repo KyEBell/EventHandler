@@ -1,6 +1,6 @@
 # EventHandler
 
-Event Creation Multi Page App
+Event Creation Multi Page App - Events Stored on Backend.  Application has CRUD capabilities and uses React w/React Router. 
 
 MAIN EVENTS PAGE 
 ![image](https://github.com/KyEBell/EventHandler/assets/126792185/ec1bad1c-5251-4af4-bb6d-6c8d620397a6)
